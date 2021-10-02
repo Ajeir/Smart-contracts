@@ -1,6 +1,6 @@
 node_modules
 .env
 
-#Hardhat files
+hardhat.config.js
 cache
 artifacts
